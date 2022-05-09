@@ -1,0 +1,17 @@
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\bin\Debug\net6.0-windows\TesteRFB_API.exe
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\bin\Debug\net6.0-windows\TesteRFB_API.deps.json
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\bin\Debug\net6.0-windows\TesteRFB_API.runtimeconfig.json
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\bin\Debug\net6.0-windows\TesteRFB_API.dll
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\bin\Debug\net6.0-windows\TesteRFB_API.pdb
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.csproj.AssemblyReference.cache
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.EFD_Reinf.resources
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.csproj.GenerateResource.cache
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.AssemblyInfoInputs.cache
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.AssemblyInfo.cs
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.dll
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\refint\TesteRFB_API.dll
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.pdb
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\TesteRFB_API.genruntimeconfig.cache
+C:\Users\klein\source\repos\TesteRFB_API\TesteRFB_API\obj\Debug\net6.0-windows\ref\TesteRFB_API.dll
