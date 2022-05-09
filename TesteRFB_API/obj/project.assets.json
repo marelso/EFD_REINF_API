@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klein\\source\\repos\\TesteRFB_API\\TesteRFB_API\\TesteRFB_API.csproj",
+      "projectUniqueName": "D:\\Projetos\\EFD_REINF_API\\TesteRFB_API\\TesteRFB_API.csproj",
       "projectName": "TesteRFB_API",
-      "projectPath": "C:\\Users\\klein\\source\\repos\\TesteRFB_API\\TesteRFB_API\\TesteRFB_API.csproj",
+      "projectPath": "D:\\Projetos\\EFD_REINF_API\\TesteRFB_API\\TesteRFB_API.csproj",
       "packagesPath": "C:\\Users\\klein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klein\\source\\repos\\TesteRFB_API\\TesteRFB_API\\obj\\",
+      "outputPath": "D:\\Projetos\\EFD_REINF_API\\TesteRFB_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
